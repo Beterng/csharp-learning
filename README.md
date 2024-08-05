@@ -21,11 +21,10 @@
 ### 20. Async/Await
 ###
 ### 1. Classes and Objects
-### A class is a blueprint or a template that defines the properties and behavior of an object.
-### An object is an instance of a class and has its own set of attributes (data) and
-### methods (functions) that can be used to interact with the object.
-###
-### Example:
+A class is a blueprint or a template that defines the properties and behavior of an object.
+An object is an instance of a class and has its own set of attributes (data) and
+methods (functions) that can be used to interact with the object.
+**Example:**
 ```c#
 class Car:
 def __init__(self, brand, model, year):
@@ -33,10 +32,10 @@ self.brand = brand
 self.model = model
 self.year = year
 ```
-### self.color = color  ### This line is commented out
-### The color attribute is not defined in the class, so it will raise an error when trying to
-### access it.
-### To fix this, we can add a property to the class to define the color attribute.
+self.color = color  ### This line is commented out
+The color attribute is not defined in the class, so it will raise an error when trying to
+access it.
+To fix this, we can add a property to the class to define the color attribute.
 ```c#
 class Car:
 def __init__(self, brand, model, year):
@@ -44,9 +43,9 @@ self.brand = brand
 self.model = model
 self.year = year
 ```
-### The color attribute is not defined in the class, so it will raise an error when trying to
-### access it.
-### To fix this, we can add a property to the class to define the color attribute.
+The color attribute is not defined in the class, so it will raise an error when trying to
+access it.
+To fix this, we can add a property to the class to define the color attribute.
 ```c#
 class Car:
 def __init__(self, brand, model, year):
