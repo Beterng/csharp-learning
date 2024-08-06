@@ -10,4 +10,12 @@ dotnet restore
 cls
 dotnet run < ./.cache/input.txt > ./.cache/output.txt
 echo "Done!"
+
+//Delte-again-to-get-free-disk-space
+cd bin
+rmdir /s /q Debug
+cd ../obj
+rmdir /s /q Debug
+cd ..
+
 exit
