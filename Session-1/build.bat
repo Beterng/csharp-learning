@@ -1,2 +1,2 @@
-start D:\Github\csharp-learning\Session-1\run.bat
+start run.bat
 exit
