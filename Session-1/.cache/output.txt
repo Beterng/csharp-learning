@@ -1,2 +1,2 @@
 Enter your age:
-Your age is: 505432
+Your age is: 6
