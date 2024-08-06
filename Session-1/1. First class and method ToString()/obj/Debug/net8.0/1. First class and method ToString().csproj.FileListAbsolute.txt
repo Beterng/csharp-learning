@@ -1,0 +1,5 @@
+D:\Github\csharp-learning\Session-1\1. First class and method ToString()\obj\Debug\net8.0\1. First class and method ToString().GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\csharp-learning\Session-1\1. First class and method ToString()\obj\Debug\net8.0\1. First class and method ToString().AssemblyInfoInputs.cache
+D:\Github\csharp-learning\Session-1\1. First class and method ToString()\obj\Debug\net8.0\1. First class and method ToString().AssemblyInfo.cs
+D:\Github\csharp-learning\Session-1\1. First class and method ToString()\obj\Debug\net8.0\1. First class and method ToString().csproj.CoreCompileInputs.cache
+D:\Github\csharp-learning\Session-1\1. First class and method ToString()\obj\Debug\net8.0\1. First class and method ToString().sourcelink.json

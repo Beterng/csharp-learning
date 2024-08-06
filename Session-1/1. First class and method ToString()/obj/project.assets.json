@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\csharp-learning\\Session-1\\1. First class and method ToString()\\1. First class and method ToString().csproj",
-      "projectName": "1. First class and method ToString()",
-      "projectPath": "D:\\Github\\csharp-learning\\Session-1\\1. First class and method ToString()\\1. First class and method ToString().csproj",
+      "projectUniqueName": "D:\\Github\\csharp-learning\\Session-1\\1. First class and method ToString()\\example1.csproj",
+      "projectName": "example1",
+      "projectPath": "D:\\Github\\csharp-learning\\Session-1\\1. First class and method ToString()\\example1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "D:\\Github\\csharp-learning\\Session-1\\1. First class and method ToString()\\obj\\",
       "projectStyle": "PackageReference",
