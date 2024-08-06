@@ -1,0 +1,15 @@
+D:\Github\csharp-learning\Session-1\bin\Debug\net8.0\Session-1.exe
+D:\Github\csharp-learning\Session-1\bin\Debug\net8.0\Session-1.deps.json
+D:\Github\csharp-learning\Session-1\bin\Debug\net8.0\Session-1.runtimeconfig.json
+D:\Github\csharp-learning\Session-1\bin\Debug\net8.0\Session-1.dll
+D:\Github\csharp-learning\Session-1\bin\Debug\net8.0\Session-1.pdb
+D:\Github\csharp-learning\Session-1\obj\Debug\net8.0\Session-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\csharp-learning\Session-1\obj\Debug\net8.0\Session-1.AssemblyInfoInputs.cache
+D:\Github\csharp-learning\Session-1\obj\Debug\net8.0\Session-1.AssemblyInfo.cs
+D:\Github\csharp-learning\Session-1\obj\Debug\net8.0\Session-1.csproj.CoreCompileInputs.cache
+D:\Github\csharp-learning\Session-1\obj\Debug\net8.0\Session-1.sourcelink.json
+D:\Github\csharp-learning\Session-1\obj\Debug\net8.0\Session-1.dll
+D:\Github\csharp-learning\Session-1\obj\Debug\net8.0\refint\Session-1.dll
+D:\Github\csharp-learning\Session-1\obj\Debug\net8.0\Session-1.pdb
+D:\Github\csharp-learning\Session-1\obj\Debug\net8.0\Session-1.genruntimeconfig.cache
+D:\Github\csharp-learning\Session-1\obj\Debug\net8.0\ref\Session-1.dll
