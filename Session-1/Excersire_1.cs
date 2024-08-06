@@ -6,10 +6,9 @@ namespace MyApplication
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Enter your age:");
+      Console.WriteLine("Enter your age:"); // Console.Write nOT lINE
       int age = Convert.ToInt32(Console.ReadLine());
       Console.WriteLine("Your age is: " + age);
-      Thread.Sleep(2000);
     }
   }
 }
